@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮全經釋原
-#+DATE: 2015-09-23 09:37:31
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:07:57.294240
+#+PROPERTY: ID KR1d0016
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 周禮通今續論
 <pb:KR1d0016_WYG_014-1a>¶
 周禮通今續論¶
 　　翼傳(論徳行道/藝舉選附)¶
@@ -418,4 +420,3 @@
 　推廣周公之意則先王之法無一而不可行於後世¶
 <pb:KR1d0016_WYG_014-24a>¶
 　也¶
-
